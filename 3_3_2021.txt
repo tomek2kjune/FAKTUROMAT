@@ -1,0 +1,17 @@
+   Faktura numer: 3/3/2021
+Data wystawienia: 2/3/2021
+
+>SPRZEDAWCA<
+mojaspó³ka.pl sp.k.
+Karakanowa 12
+Bikini Dolne,01-101
+NIP:7968228697
+
+>NABYWCA<
+Erduindo Meble sp.c.
+Markoniego 12/3
+Alleppo,54-025
+NIP:34536453424
+
+POZYCJA                       |      ILOŒÆ | CENA JEDNOSTKOWA | RAZEM
+           wkr©tarka sieciowa |       2,00 |           195,00 | 390,00
