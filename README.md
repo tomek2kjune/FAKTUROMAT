@@ -8,3 +8,5 @@ Baza do fakturowania firmy.
 - zapis faktury z bazy do pliku
 - wyszukiwanie faktur
 - tworzenie rozliczenia miesięcznego z hashem
+
+*3_3_2021.txt to plik z przykładową fakturą
